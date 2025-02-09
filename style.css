@@ -338,9 +338,11 @@ body{
         
     }
     .p8-c1{
-        padding-right: 20px;
         align-items: center;
         display: flex;
+    }
+    .p8-c1>i{
+        padding: 8px;
     }
     .p8-c2>button{
         background-color: black;
