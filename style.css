@@ -188,7 +188,7 @@ body{
         height: 80px;
     } 
     .menu-c1{
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .menu-c1>h4{
         margin-right: 5px;
@@ -217,7 +217,7 @@ body{
     .p2-c1>input{
         margin-top: 15px;
         height: 80px;
-        width: 250px;
+        width: 200px;
         border:1px solid;
         border-color:  orange;
         border-radius: 10px;
