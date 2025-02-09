@@ -172,9 +172,7 @@ body{
     padding-right: 5px;
 }
  @media(max-width:576px){
-    body{
-        padding: 20px;
-    }
+   
     .menu{
         display: flex;
         align-items: center;
@@ -193,7 +191,7 @@ body{
         margin-left: 20px;
     }
     .menu-c1>h4{
-        margin-right: 10px;
+        margin-right: 5px;
         font-size: 15px;
     }
     .parent2{
@@ -216,10 +214,18 @@ body{
         display: flex;
         padding-left: 10px;
     }
+    .p2-c1>input{
+        margin-top: 15px;
+        height: 80px;
+        width: 300px;
+        border:1px solid;
+        border-color:  orange;
+        border-radius: 10px;
+    }
     .p2-c1-1>i{
         margin-right: 20px;
         align-items: baseline;
-        font-size: 25px;
+        font-size: 20px;
     }
     .parent3{
         width: auto;
